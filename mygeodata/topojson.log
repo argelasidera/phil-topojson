@@ -1,0 +1,5 @@
+bounds: 116.92888641357443 4.615572872041561 126.60534667968749 21.070140838623047 (spherical)
+pre-quantization: 1.08m (0.00000968°) 1.83m (0.0000165°)
+topology: 5989 arcs, 79388 points
+post-quantization: 108m (0.000968°) 183m (0.00165°)
+prune: retained 5989 / 5989 arcs (100%)
